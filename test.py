@@ -1,4 +1,4 @@
-for i in range(3,244,1) :
+for i in range(3,4,1) :
     add = str(i)
     print(" "*4,"<a target=\"_blank\" href=\"gallery/",add,".jpg\">",sep="")
     print(" "*6,"<img src=\"gallery/",add,".jpg\" width=\"600\" height=\"400\">",sep="")
