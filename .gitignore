@@ -1,3 +1,4 @@
 *.psd
 /players Private
 *.py
+.vscode/settings.json
